@@ -1,0 +1,7 @@
+Neste projeto é criado um app de uma consultoria chamada ATM utilizando o NavigationDrawer.
+São criados Fragments que dão acesso aos itens listados no NaviagationDrawer
+Para trabalhar com as cores de background do nav_header, é criado o gradiente_background.
+Utilizamos ícones de itens diferentes, que estão armazenados na pasta drawable.
+O projeto também mostra como ter acesso ao email e algumas redes sociais como GitHub, Twitter,
+Facebook, Instagram, Youtube e PlayStore, além é claro, acesso em algum site em específico que o 
+programador queira que seu app tenha acesso.  
